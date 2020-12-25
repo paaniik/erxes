@@ -24,7 +24,7 @@ Licensor: erxes Inc
 
                             Preamble
 
-  The GNU General Public License is a free, copyleft license for
+  The GNU General Public License is a free, copy left license for
 software and other kinds of works.
 
   The licenses for most software and other practical works are designed
@@ -285,7 +285,7 @@ in one of these ways:
 
     c) Convey individual copies of the object code with a copy of the
     written offer to provide the Corresponding Source.  This
-    alternative is allowed only occasionally and noncommercially, and
+    alternative is allowed only occasionally and non-commercially, and
     only if you received the object code with such an offer, in accord
     with subsection 6b.
 
